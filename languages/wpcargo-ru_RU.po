@@ -1,0 +1,1559 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPCargo\n"
+"POT-Creation-Date: 2020-05-14 14:11+0800\n"
+"PO-Revision-Date: 2020-05-14 14:13+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpcargo.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/classes/class-wpc-admin-scripts.php:19
+#: admin/templates/package-metabox.tpl.php:70
+#: admin/templates/shipment-history-editable.tpl.php:81
+msgid "Are you sure you want to delete this element?"
+msgstr "Вы уверены, что хотите удалить этот элемент?"
+
+#: admin/classes/class-wpc-admin-scripts.php:20
+msgid "--Please Select Client--"
+msgstr "--Пожалуйста, выберите клиента --"
+
+#: admin/classes/class-wpc-admin-settings.php:51 admin/includes/hooks.php:198
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/classes/class-wpc-admin-settings.php:60
+msgid "Get Started Here"
+msgstr "Начало работы здесь"
+
+#: admin/classes/class-wpc-admin-settings.php:61
+msgid "Documentation"
+msgstr "Документация"
+
+#: admin/classes/class-wpc-admin-settings.php:66
+msgid "Add Ons"
+msgstr "Дополнения"
+
+#: admin/classes/class-wpc-admin-settings.php:67
+msgid "More Info"
+msgstr "Больше информации"
+
+#: admin/classes/class-wpc-admin-settings.php:72
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/classes/class-wpc-admin-settings.php:73
+msgid "Like our page"
+msgstr "Как наша страница"
+
+#: admin/classes/class-wpc-admin-settings.php:78
+msgid "Get Support"
+msgstr "Получить поддержку"
+
+#: admin/classes/class-wpc-admin-settings.php:79
+msgid "Contact Us"
+msgstr "Свяжитесь с нами"
+
+#: admin/classes/class-wpc-admin-settings.php:84
+msgid "Get Website Hosting"
+msgstr "Получить веб-сайт Хостинг"
+
+#: admin/classes/class-wpc-admin-settings.php:85
+msgid "Free Website Design"
+msgstr "Бесплатный дизайн сайта"
+
+#: admin/classes/class-wpc-custom-table.php:79
+msgid "No Category"
+msgstr "Без Категории"
+
+#: admin/classes/class-wpc-custom-table.php:138
+msgid "Update Shipment Status"
+msgstr "Обновление статуса груза"
+
+#: admin/classes/class-wpc-custom-table.php:141
+msgid "Current City"
+msgstr "Город проживания"
+
+#: admin/classes/class-wpc-custom-table.php:144
+msgid "--Select Status--"
+msgstr "--Выбрать статус--"
+
+#: admin/classes/class-wpc-custom-table.php:152
+msgid "No Shipment Status Found."
+msgstr "Статус груза не найден."
+
+#: admin/classes/class-wpc-custom-table.php:152
+#: admin/templates/settings-option.tpl.php:9
+msgid "Add Shipment Status"
+msgstr "Добавить статус груза"
+
+#: admin/classes/class-wpc-custom-table.php:154
+#: admin/includes/functions.php:438
+#: templates/result-shipment-history.tpl.php:55
+msgid "Remarks"
+msgstr "Примечания"
+
+#: admin/classes/class-wpc-custom-table.php:162
+msgid "Select Agent"
+msgstr "Выберите агента"
+
+#: admin/classes/class-wpc-custom-table.php:164 admin/includes/hooks.php:224
+msgid "— No Change —"
+msgstr "— Без изменений —"
+
+#: admin/classes/class-wpc-export-extend.php:58
+msgid "Purchase"
+msgstr "Покупка"
+
+#: admin/classes/class-wpc-export-extend.php:59
+msgid "If you want a more comprehensive and customizable report, purchase"
+msgstr "Если вы хотите более полный и настраиваемый отчет, покупка"
+
+#: admin/classes/class-wpc-export-extend.php:94
+msgid "Shipper Name:"
+msgstr "Имя грузоотза"
+
+#: admin/classes/class-wpc-export-extend.php:97
+msgid "Registered Shipper:"
+msgstr "Зарегистрированный грузоотза:"
+
+#: admin/classes/class-wpc-export-extend.php:99
+msgid "-- Registered Shipper --"
+msgstr "-- Зарегистрированный грузоотза --"
+
+#: admin/classes/class-wpc-export-extend.php:106
+msgid "Date Range"
+msgstr "Диапазон дат"
+
+#: admin/classes/class-wpc-export-extend.php:108
+msgid "From : "
+msgstr "От: "
+
+#: admin/classes/class-wpc-export-extend.php:110
+msgid "To : "
+msgstr "До : "
+
+#: admin/classes/class-wpc-export-extend.php:114
+#: admin/includes/functions.php:426 admin/includes/hooks.php:380
+#: admin/templates/admin-print-label.tpl.php:67 templates/account.tpl.php:21
+#: templates/result-shipment-history.tpl.php:54
+msgid "Status"
+msgstr "Статус"
+
+#: admin/classes/class-wpc-export-extend.php:118
+msgid "Choose Status"
+msgstr "Выберите статус"
+
+#: admin/classes/class-wpc-export-extend.php:128
+msgid "Select Option"
+msgstr "Параметры выбора"
+
+#: admin/classes/class-wpc-export-extend.php:164
+msgid "Generate Report"
+msgstr "Создать отчет"
+
+#: admin/classes/class-wpc-export-extend.php:165
+msgid ""
+"Note: This will take a couple of seconds to generate reports, wait for a pop "
+"up message to save your report."
+msgstr ""
+"Примечание: Это займет несколько секунд, чтобы создать отчеты, ждать "
+"всплывающее сообщение, чтобы сохранить ваш отчет."
+
+#: admin/classes/class-wpc-export-extend.php:226
+msgid "Shipment Reports"
+msgstr "Отчеты о поставках"
+
+#: admin/classes/class-wpc-export.php:8 admin/includes/functions.php:169
+#: admin/templates/shipper-metabox.tpl.php:7
+msgid "Shipper Name"
+msgstr "Имя грузоотза"
+
+#: admin/classes/class-wpc-export.php:13 admin/classes/class-wpc-export.php:33
+#: admin/classes/class-wpc-export.php:43
+#: admin/templates/receiver-metabox.tpl.php:14
+#: admin/templates/shipper-metabox.tpl.php:11
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: admin/classes/class-wpc-export.php:18
+#: admin/templates/print-details-shipper.tpl.php:14
+msgid "Shipper Address"
+msgstr "Адрес грузоотза"
+
+#: admin/classes/class-wpc-export.php:23 admin/includes/functions.php:76
+msgid "Shipper Email"
+msgstr "Отправка электронной почты"
+
+#: admin/classes/class-wpc-export.php:28 admin/includes/functions.php:175
+#: admin/templates/receiver-metabox.tpl.php:8
+msgid "Receiver Name"
+msgstr "Имя получателя"
+
+#: admin/classes/class-wpc-export.php:38
+#: admin/templates/print-details-shipper.tpl.php:22
+msgid "Receiver Address"
+msgstr "Адрес получателя"
+
+#: admin/classes/class-wpc-export.php:48 admin/includes/functions.php:77
+msgid "Receiver Email"
+msgstr "Получатель почты"
+
+#: admin/classes/class-wpc-export.php:53
+#: admin/templates/assign-metabox.tpl.php:27
+msgid "Agent Name"
+msgstr "Имя агента"
+
+#: admin/classes/class-wpc-export.php:58 admin/includes/functions.php:448
+#: admin/templates/admin-print-label.tpl.php:83
+#: admin/templates/shipment-metabox.tpl.php:7
+msgid "Type of Shipment"
+msgstr "Тип отгрузки"
+
+#: admin/classes/class-wpc-export.php:63 admin/includes/functions.php:449
+#: admin/templates/admin-print-label.tpl.php:44
+#: admin/templates/shipment-metabox.tpl.php:32
+msgid "Courier"
+msgstr "Курьер"
+
+#: admin/classes/class-wpc-export.php:68 admin/includes/functions.php:451
+#: admin/templates/admin-print-label.tpl.php:92
+#: admin/templates/shipment-metabox.tpl.php:40
+msgid "Mode"
+msgstr "Режим"
+
+#: admin/classes/class-wpc-export.php:73 admin/includes/functions.php:456
+#: admin/templates/admin-print-label.tpl.php:90
+#: admin/templates/shipment-metabox.tpl.php:65
+msgid "Quantity"
+msgstr "Количество"
+
+#: admin/classes/class-wpc-export.php:78 admin/includes/functions.php:457
+#: admin/templates/admin-print-label.tpl.php:89
+#: admin/templates/shipment-metabox.tpl.php:89
+msgid "Total Freight"
+msgstr "Общий объем перевозок"
+
+#: admin/classes/class-wpc-export.php:83 admin/includes/functions.php:450
+#: admin/templates/admin-print-label.tpl.php:52
+#: admin/templates/shipment-metabox.tpl.php:114
+msgid "Carrier Reference No."
+msgstr "Номер ссылки перевозчика"
+
+#: admin/classes/class-wpc-export.php:88 admin/includes/functions.php:459
+#: admin/templates/admin-print-label.tpl.php:38
+#: admin/templates/shipment-metabox.tpl.php:125
+msgid "Origin"
+msgstr "Источник"
+
+#: admin/classes/class-wpc-export.php:93 admin/includes/functions.php:460
+#: admin/templates/admin-print-label.tpl.php:27
+#: admin/templates/shipment-metabox.tpl.php:167
+msgid "Pickup Date"
+msgstr "Дата отправки"
+
+#: admin/classes/class-wpc-export.php:98 admin/includes/functions.php:83
+msgid "Shipment Status"
+msgstr "Статус груза"
+
+#: admin/classes/class-wpc-export.php:103
+#: admin/templates/shipment-metabox.tpl.php:179
+msgid "Comments"
+msgstr "Комментарии"
+
+#: admin/classes/class-wpc-export.php:108 admin/includes/functions.php:455
+#: admin/templates/admin-print-label.tpl.php:86
+#: admin/templates/shipment-metabox.tpl.php:28
+msgid "Weight"
+msgstr "Вес"
+
+#: admin/classes/class-wpc-export.php:113
+#: admin/classes/class-wpc-metabox.php:101 admin/includes/functions.php:453
+#: admin/templates/admin-print-label.tpl.php:84
+#: admin/templates/shipment-metabox.tpl.php:36 templates/package.tpl.php:2
+msgid "Packages"
+msgstr "Пакеты"
+
+#: admin/classes/class-wpc-export.php:118 admin/includes/functions.php:454
+#: admin/templates/admin-print-label.tpl.php:85
+#: admin/templates/shipment-metabox.tpl.php:61
+msgid "Product"
+msgstr "Товар"
+
+#: admin/classes/class-wpc-export.php:123 admin/includes/functions.php:458
+#: admin/templates/admin-print-label.tpl.php:91
+#: admin/templates/shipment-metabox.tpl.php:69
+msgid "Payment Mode"
+msgstr "Форма оплаты"
+
+#: admin/classes/class-wpc-export.php:128 admin/includes/functions.php:452
+#: admin/templates/admin-print-label.tpl.php:49
+#: admin/templates/shipment-metabox.tpl.php:93
+msgid "Carrier"
+msgstr "Перевозчик"
+
+#: admin/classes/class-wpc-export.php:133 admin/includes/functions.php:462
+#: admin/templates/admin-print-label.tpl.php:55
+#: admin/templates/shipment-metabox.tpl.php:118
+msgid "Departure Time"
+msgstr "Время отправления"
+
+#: admin/classes/class-wpc-export.php:138 admin/includes/functions.php:461
+#: admin/templates/admin-print-label.tpl.php:41
+#: admin/templates/shipment-metabox.tpl.php:146
+msgid "Destination"
+msgstr "Место назначения"
+
+#: admin/classes/class-wpc-export.php:143 admin/includes/functions.php:463
+#: admin/templates/admin-print-label.tpl.php:30
+msgid "Pickup Time"
+msgstr "Время отправки"
+
+#: admin/classes/class-wpc-export.php:148 admin/includes/functions.php:464
+#: admin/templates/shipment-metabox.tpl.php:175
+msgid "Expected Delivery Date"
+msgstr "Ожидаемая дата поставки"
+
+#: admin/classes/class-wpc-export.php:153
+msgid "History"
+msgstr "История"
+
+#: admin/classes/class-wpc-export.php:332
+msgid "No Result Found!"
+msgstr "Ничего не найдено!"
+
+#: admin/classes/class-wpc-metabox.php:48
+msgid "Current Status"
+msgstr "Текущий статус"
+
+#: admin/classes/class-wpc-metabox.php:85
+#: templates/result-shipment-history.tpl.php:60
+msgid "Shipment History"
+msgstr "История отгрузки"
+
+#: admin/classes/class-wpc-metabox.php:92
+msgid "Assign shipment to"
+msgstr "Назначить отгрузку"
+
+#: admin/classes/class-wpc-mp-settings.php:12
+#: admin/classes/class-wpc-mp-settings.php:131
+msgid "Multiple Package Settings"
+msgstr "Несколько настроек пакета"
+
+#: admin/classes/class-wpc-mp-settings.php:25
+msgid "Enable Multiple Package on Admin?"
+msgstr "Включить несколько пакетов на админа?"
+
+#: admin/classes/class-wpc-mp-settings.php:32
+msgid "Enable Multiple Package on Results?"
+msgstr "Включить несколько пакетов по результатам?"
+
+#: admin/classes/class-wpc-mp-settings.php:39
+msgid "Enable Dimension Unit?"
+msgstr "Включить единицу измерения?"
+
+#: admin/classes/class-wpc-mp-settings.php:46
+msgid "Dimension Unit"
+msgstr "Единица измерения"
+
+#: admin/classes/class-wpc-mp-settings.php:53
+msgid "Weight Unit"
+msgstr "Единица измерения веса"
+
+#: admin/classes/class-wpc-mp-settings.php:60
+msgid "Piece Type Selection"
+msgstr "Выбор типа пьесы"
+
+#: admin/classes/class-wpc-mp-settings.php:70
+msgid ""
+"If checked you will enable the multiple package on your shipment admin "
+"dashboard."
+msgstr ""
+"При проверке вы включите несколько пакетов на панели мониторинга отгрузки."
+
+#: admin/classes/class-wpc-mp-settings.php:77
+msgid ""
+"If checked you will enable the multiple package on your shipment results."
+msgstr "Если проверено, вы включите несколько пакетов на результаты отгрузки."
+
+#: admin/classes/class-wpc-mp-settings.php:84
+msgid "If checked you will enable the dimension unit."
+msgstr "При проверке вы включите единицу измерения."
+
+#: admin/classes/class-wpc-mp-settings.php:91
+msgid ""
+"This will be display in the package Dimension. Example: mm, cm, inch, etc. "
+"The default is cm."
+msgstr ""
+"Это будет отображаться в пакете Измерение. Пример: мм, см, дюйм и т.д. По "
+"умолчанию см."
+
+#: admin/classes/class-wpc-mp-settings.php:98
+msgid ""
+"This will be display in the package Weight. Example: lbs, g, gr, kg, etc. "
+"The default is lbs."
+msgstr ""
+"Это будет отображаться в пакете Вес. Пример: фунты, г, гр, кг и т.д. По "
+"умолчанию это фунты."
+
+#: admin/classes/class-wpc-mp-settings.php:105
+msgid ""
+"This will be the selection for the Piece Type for the Package Information "
+"section. Comma separated ( Ex. Pallet, Carton, Crate, Loose, Others)"
+msgstr ""
+"Это будет выбор для типа piece для раздела Информация пакета. Запятая "
+"разделена (Ex. Паллет, Коробка, Ящик, Loose, Другие)"
+
+#: admin/classes/class-wpc-mp-settings.php:109
+msgid "Settings for Multiple Package, please fill out the fields below."
+msgstr "Настройки для нескольких пакетов, пожалуйста, заполните поля ниже."
+
+#: admin/classes/class-wpc-mp-settings.php:112
+msgid "Multiple Package"
+msgstr "Несколько пакетов"
+
+#: admin/classes/class-wpc-post-types.php:11
+#: admin/classes/class-wpc-post-types.php:12
+msgctxt "Shipment"
+msgid "Shipment"
+msgstr "Отправка"
+
+#: admin/classes/class-wpc-post-types.php:13
+#: admin/classes/class-wpc-post-types.php:26
+#: admin/classes/class-wpc-post-types.php:27
+msgid "Shipment"
+msgstr "Отправка"
+
+#: admin/classes/class-wpc-post-types.php:14
+msgid "All Shipment"
+msgstr "Все грузы"
+
+#: admin/classes/class-wpc-post-types.php:15
+msgid "View Shipment"
+msgstr "Просмотр отгрузки"
+
+#: admin/classes/class-wpc-post-types.php:16
+msgid "Add New Shipment"
+msgstr "Добавление новой партии"
+
+#: admin/classes/class-wpc-post-types.php:17
+msgid "Add Shipment"
+msgstr "Добавление отгрузки"
+
+#: admin/classes/class-wpc-post-types.php:18
+msgid "Edit Shipment"
+msgstr "Отодвить груз"
+
+#: admin/classes/class-wpc-post-types.php:19
+msgid "Update Shipment"
+msgstr "Обновление отгрузки"
+
+#: admin/classes/class-wpc-post-types.php:20
+msgid "Search Shipment"
+msgstr "Поиск груза"
+
+#: admin/classes/class-wpc-post-types.php:21
+msgid "Shipment Not found"
+msgstr "Груз не найден"
+
+#: admin/classes/class-wpc-post-types.php:22
+msgid "Shipment Not found in Trash"
+msgstr "Груз не найден в корзине"
+
+#: admin/classes/class-wpc-post-types.php:47
+#: admin/classes/class-wpc-post-types.php:48
+msgctxt "Category"
+msgid "Category"
+msgstr "Категория"
+
+#: admin/classes/class-wpc-post-types.php:49
+msgid "Search Category"
+msgstr "Поиск категории"
+
+#: admin/classes/class-wpc-post-types.php:50
+msgid "All Category"
+msgstr "Все категории"
+
+#: admin/classes/class-wpc-post-types.php:51
+msgid "Parent Category"
+msgstr "Родительская категория"
+
+#: admin/classes/class-wpc-post-types.php:52
+msgid "Parent Category:"
+msgstr "Родительская категория:"
+
+#: admin/classes/class-wpc-post-types.php:53
+msgid "Edit Category"
+msgstr "Редактировать категорию"
+
+#: admin/classes/class-wpc-post-types.php:54
+msgid "Update Category"
+msgstr "Обновить категорию"
+
+#: admin/classes/class-wpc-post-types.php:55
+msgid "Add New Category"
+msgstr "Добавить новую категорию"
+
+#: admin/classes/class-wpc-post-types.php:56
+msgid "New Category Name"
+msgstr "Имя новой категории"
+
+#: admin/classes/class-wpc-post-types.php:57
+msgid "Category"
+msgstr "Категория"
+
+#: admin/classes/class-wpc-print-admin.php:100
+msgid "Print Label"
+msgstr "Печать метки"
+
+#: admin/classes/class-wpcargo.php:153
+msgid "Shipment Notification"
+msgstr "Уведомление о поставке"
+
+#: admin/includes/filters.php:20
+msgid "-- Select All Status --"
+msgstr "-- Выберите все статусы --"
+
+#: admin/includes/filters.php:36
+msgid "-- Select All Category --"
+msgstr "-- Выберите все категории --"
+
+#: admin/includes/filters.php:45
+msgid "-- All Agents --"
+msgstr "-- Все агенты --"
+
+#: admin/includes/filters.php:56
+msgid "-- All Owners --"
+msgstr "-- Все владельцы --"
+
+#: admin/includes/filters.php:70
+msgid "-- All Shipper --"
+msgstr "-- Все грузоотки --"
+
+#: admin/includes/filters.php:83
+msgid "-- All Receiver --"
+msgstr "-- Все приемник --"
+
+#: admin/includes/functions.php:75
+msgid "Tracking Number"
+msgstr "Трек-номер"
+
+#: admin/includes/functions.php:78
+msgid "Shipper Phone"
+msgstr "Телефон грузоотки"
+
+#: admin/includes/functions.php:79
+msgid "Receiver Phone"
+msgstr "Телефон-приемник"
+
+#: admin/includes/functions.php:80
+msgid "Admin Email"
+msgstr "Email администратора"
+
+#: admin/includes/functions.php:81
+msgid "Name of the Shipper"
+msgstr "Имя грузоотза"
+
+#: admin/includes/functions.php:82
+msgid "Name of the Receiver"
+msgstr "Имя получателя"
+
+#: admin/includes/functions.php:84
+msgid "Website Name"
+msgstr "Название сайта"
+
+#: admin/includes/functions.php:85
+msgid "Website URL"
+msgstr "Адрес сайта"
+
+#: admin/includes/functions.php:92
+msgid "Pending"
+msgstr "В ожидании"
+
+#: admin/includes/functions.php:93
+msgid "Picked up"
+msgstr "Взял"
+
+#: admin/includes/functions.php:94
+msgid "On Hold"
+msgstr "На удержании"
+
+#: admin/includes/functions.php:95
+msgid "Out for delivery"
+msgstr "Выход на доставку"
+
+#: admin/includes/functions.php:96
+msgid "In Transit"
+msgstr "Внутри"
+
+#: admin/includes/functions.php:97
+msgid "Enroute"
+msgstr "Пути"
+
+#: admin/includes/functions.php:98
+msgid "Cancelled"
+msgstr "Отменен"
+
+#: admin/includes/functions.php:99
+msgid "Delivered"
+msgstr "Доставлено"
+
+#: admin/includes/functions.php:100
+msgid "Returned"
+msgstr "Возвращено"
+
+#: admin/includes/functions.php:110
+msgid "-- Select Type --"
+msgstr "-- Выберите тип --"
+
+#: admin/includes/functions.php:302
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: admin/includes/functions.php:303
+msgid "Next"
+msgstr "Следующий"
+
+#: admin/includes/functions.php:304
+msgid "Shipments"
+msgstr "Отправки"
+
+#: admin/includes/functions.php:341
+msgid "First"
+msgstr "Первый"
+
+#: admin/includes/functions.php:343
+msgid "previous"
+msgstr "предыдущий"
+
+#: admin/includes/functions.php:356
+msgid "next"
+msgstr "следующий"
+
+#: admin/includes/functions.php:359
+msgid "Last"
+msgstr "Последний"
+
+#. Plugin Name of the plugin/theme
+#: admin/includes/functions.php:375
+msgid "WPCargo"
+msgstr "WPCargo"
+
+#: admin/includes/functions.php:378
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: admin/includes/functions.php:381
+msgid "Client Email Settings"
+msgstr "Настройки электронной почты клиента"
+
+#: admin/includes/functions.php:384
+msgid "Admin Email Settings"
+msgstr "Настройки почты администратора"
+
+#: admin/includes/functions.php:387
+msgid "Shipment Settings"
+msgstr "Настройки отгрузки"
+
+#: admin/includes/functions.php:390
+msgid "Reports"
+msgstr "Отчеты"
+
+#: admin/includes/functions.php:393
+msgid "Map Settings"
+msgstr "Настройки карты"
+
+#: admin/includes/functions.php:396
+msgid "Print Layout"
+msgstr "Печать Layout"
+
+#: admin/includes/functions.php:399
+msgid "Shipment Label"
+msgstr "Метка отгрузки"
+
+#: admin/includes/functions.php:402 admin/templates/shipment-metabox.tpl.php:2
+msgid "Shipment Details"
+msgstr "Детали отгрузки"
+
+#: admin/includes/functions.php:408 admin/includes/hooks.php:378
+#: templates/result-shipment-history.tpl.php:51
+msgid "Date"
+msgstr "Дата"
+
+#: admin/includes/functions.php:414
+#: templates/result-shipment-history.tpl.php:52
+msgid "Time"
+msgstr "Время"
+
+#: admin/includes/functions.php:420 admin/includes/hooks.php:379
+#: templates/result-shipment-history.tpl.php:53
+msgid "Location"
+msgstr "Местоположение"
+
+#: admin/includes/functions.php:432
+msgid "Updated By"
+msgstr "Обновлено"
+
+#: admin/includes/functions.php:480
+msgid "From: "
+msgstr "От:"
+
+#: admin/includes/functions.php:484
+msgid "Dear"
+msgstr "Уважаемый"
+
+#: admin/includes/functions.php:485
+msgid "Shipment number "
+msgstr "Номер отгрузки"
+
+#: admin/includes/functions.php:485
+msgid " has been assigned to you."
+msgstr "была назначена вам."
+
+#: admin/includes/functions.php:489
+msgid "Assign Shipment Notification"
+msgstr "Уведомление о отгрузке"
+
+#: admin/includes/hooks.php:160 admin/includes/hooks.php:169
+msgid "Do you want to display it on account page?"
+msgstr "Вы хотите, чтобы отобразить его на странице счета?"
+
+#: admin/includes/hooks.php:222
+msgid "Registered Shipper"
+msgstr "Зарегистрированный грузоотза"
+
+#: admin/includes/hooks.php:400
+msgid "Shipment Status: "
+msgstr "Статус груза:"
+
+#: admin/templates/account-settings.tpl.php:9
+msgid "Disable Search Client Shipper?"
+msgstr "Отключить поиск клиента Груза?"
+
+#: admin/templates/account-settings.tpl.php:14
+msgid "Disable Search Client Receiver?"
+msgstr "Отключить поиск клиента приемник?"
+
+#: admin/templates/account-settings.tpl.php:19
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: admin/templates/admin-email-settings-option.tpl.php:7
+#: admin/templates/email-settings-option.tpl.php:7
+msgid "WPCargo Merge Tags"
+msgstr "WPCargo Слияние Теги"
+
+#: admin/templates/admin-email-settings-option.tpl.php:8
+#: admin/templates/email-settings-option.tpl.php:8
+msgid "Note: Use this tags for email setup to display shipment data."
+msgstr ""
+"Примечание: Используйте эти теги для настройки электронной почты для "
+"отображения данных отгрузки."
+
+#: admin/templates/admin-email-settings-option.tpl.php:11
+#: admin/templates/email-settings-option.tpl.php:11
+msgid "Code"
+msgstr "Код"
+
+#: admin/templates/admin-email-settings-option.tpl.php:12
+#: admin/templates/email-settings-option.tpl.php:12
+msgid "Label"
+msgstr "Метка"
+
+#: admin/templates/admin-email-settings-option.tpl.php:30
+msgid "Activate Admin Email Notification?"
+msgstr "Активировать уведомление по электронной почте админа?"
+
+#: admin/templates/admin-email-settings-option.tpl.php:33
+#: admin/templates/email-settings-option.tpl.php:33
+msgid "Please check if you want to send email after updating the shipment."
+msgstr ""
+"Пожалуйста, проверьте, хотите ли вы отправить электронное письмо после "
+"обновления груза."
+
+#: admin/templates/admin-email-settings-option.tpl.php:39
+#: admin/templates/email-settings-option.tpl.php:39
+msgid "Select Shipment Status to send email Notification"
+msgstr "Выберите статус отправки для отправки уведомления по электронной почте"
+
+#: admin/templates/admin-email-settings-option.tpl.php:51
+#: admin/templates/email-settings-option.tpl.php:51
+msgid ""
+"Note: If no Shipment status is selected, Email Notify all types of shipment "
+"status"
+msgstr ""
+"Примечание: Если статус отправки не выбран, Email Уведомить все типы статуса "
+"отгрузки"
+
+#: admin/templates/admin-email-settings-option.tpl.php:55
+#: admin/templates/email-settings-option.tpl.php:55
+msgid "Domain Email"
+msgstr "Адрес электронной почты"
+
+#: admin/templates/admin-email-settings-option.tpl.php:58
+#: admin/templates/email-settings-option.tpl.php:58
+msgid ""
+"Edit this if you want to change the header of your email automation. Default "
+"will be"
+msgstr ""
+"Отспособьте это, если вы хотите изменить заголовок автоматизации электронной "
+"почты. По умолчанию будет"
+
+#: admin/templates/admin-email-settings-option.tpl.php:62
+#: admin/templates/email-settings-option.tpl.php:62
+msgid "Mail To"
+msgstr "Отправить почту"
+
+#: admin/templates/admin-email-settings-option.tpl.php:64
+#: admin/templates/email-settings-option.tpl.php:64
+msgid ""
+"Add emails with comma separated.(You can add WPCargo Merge Tags)<br>\n"
+"             sample_1@mail.com, @sample_2@mail.com"
+msgstr ""
+"Добавить электронные письма с запятой разделены. (Вы можете добавить теги "
+"слияния WPCargo)<br>sample_1@mail.com, Зsample_2@mail.com"
+
+#: admin/templates/admin-email-settings-option.tpl.php:68
+#: admin/templates/email-settings-option.tpl.php:78
+msgid "Subject:"
+msgstr "Тема:"
+
+#: admin/templates/admin-email-settings-option.tpl.php:71
+#: admin/templates/email-settings-option.tpl.php:81
+msgid "Email Subject"
+msgstr "Тема письма"
+
+#: admin/templates/admin-email-settings-option.tpl.php:76
+#: admin/templates/email-settings-option.tpl.php:86
+msgid "Message Content:"
+msgstr "Содержание сообщения:"
+
+#: admin/templates/admin-email-settings-option.tpl.php:84
+#: admin/templates/email-settings-option.tpl.php:99
+msgid "Footer:"
+msgstr "Нижняя часть"
+
+#: admin/templates/admin-print-label.tpl.php:3
+msgid "Accounts Copy"
+msgstr "Копирование счетов"
+
+#: admin/templates/admin-print-label.tpl.php:4
+msgid "Consignee Copy"
+msgstr "Копирование грузоотправителя"
+
+#: admin/templates/admin-print-label.tpl.php:5
+msgid "Shippers Copy"
+msgstr "Копии грузоотправителей"
+
+#: admin/templates/admin-print-label.tpl.php:33 templates/account.tpl.php:19
+msgid "Delivery Date"
+msgstr "Дата доставки"
+
+#: admin/templates/admin-print-label.tpl.php:80
+msgid "Comment"
+msgstr "Комментарий"
+
+#: admin/templates/admin-print-label.tpl.php:100
+msgid "Print File"
+msgstr "Печатать файл"
+
+#: admin/templates/assign-metabox.tpl.php:14
+msgid "Client"
+msgstr "Клиент"
+
+#: admin/templates/assign-metabox.tpl.php:17
+msgid "-- Select Client --"
+msgstr "-- Выберите клиента --"
+
+#: admin/templates/assign-metabox.tpl.php:34
+#: admin/templates/shipment-metabox.tpl.php:11
+#: admin/templates/shipment-metabox.tpl.php:44
+#: admin/templates/shipment-metabox.tpl.php:73
+#: admin/templates/shipment-metabox.tpl.php:97
+#: admin/templates/shipment-metabox.tpl.php:129
+#: admin/templates/shipment-metabox.tpl.php:150
+msgid "-- Select One --"
+msgstr "-- Выберите один --"
+
+#: admin/templates/assign-metabox.tpl.php:43
+msgid "No agents found, please add agents "
+msgstr "Агентов не найдено, пожалуйста, добавьте агентов"
+
+#: admin/templates/assign-metabox.tpl.php:45
+#: admin/templates/shipment-metabox.tpl.php:21
+#: admin/templates/shipment-metabox.tpl.php:54
+#: admin/templates/shipment-metabox.tpl.php:83
+#: admin/templates/shipment-metabox.tpl.php:107
+#: admin/templates/shipment-metabox.tpl.php:139
+#: admin/templates/shipment-metabox.tpl.php:160
+msgid "here."
+msgstr "здесь."
+
+#: admin/templates/assign-metabox.tpl.php:47
+msgid " Make sure the role assign is \"WPCargo Agent\"."
+msgstr "Убедитесь, что роль назначить \"WPCargo агент\"."
+
+#: admin/templates/assign-metabox.tpl.php:53
+msgid "Employee"
+msgstr "Сотрудник"
+
+#: admin/templates/assign-metabox.tpl.php:56
+msgid "-- Select Employee --"
+msgstr "-- Выберите сотрудника --"
+
+#: admin/templates/email-settings-option.tpl.php:30
+msgid "Activate Client Email Notification?"
+msgstr "Активировать уведомление клиента по электронной почте?"
+
+#: admin/templates/email-settings-option.tpl.php:68
+msgid "Cc"
+msgstr "Копия"
+
+#: admin/templates/email-settings-option.tpl.php:70
+#: admin/templates/email-settings-option.tpl.php:75
+msgid ""
+"Add emails with comma separated. ( sample_1@mail.com, @sample_2@mail.com )"
+msgstr ""
+"Добавить электронные письма с запятой разделены. (sample_1@mail.com, "
+"Sample_2@mail.com)"
+
+#: admin/templates/email-settings-option.tpl.php:73
+msgid "Bcc"
+msgstr "Скрытая копия"
+
+#: admin/templates/email-settings-option.tpl.php:111
+msgid "View sample email output"
+msgstr "Просмотр примера вывода электронной почты"
+
+#: admin/templates/history-map-settings.tpl.php:7
+msgid "Enable Shipment History Map"
+msgstr "Карта истории отгрузок"
+
+#: admin/templates/history-map-settings.tpl.php:13
+msgid "Display Map in result page?"
+msgstr "Отображение карты в результатах страницы?"
+
+#: admin/templates/history-map-settings.tpl.php:16
+msgid ""
+"Note: This option will take effect only in the result page when \"Shipment "
+"History Map\" option is enabled."
+msgstr ""
+"Примечание: Эта опция вступит в силу только на странице результата, когда "
+"включен ауда \"Карта истории груза\"."
+
+#: admin/templates/history-map-settings.tpl.php:20
+msgid "Map Type"
+msgstr "Тип карты"
+
+#: admin/templates/history-map-settings.tpl.php:23
+msgid "--Select Map Type--"
+msgstr "--Выберите Тип карты--"
+
+#: admin/templates/history-map-settings.tpl.php:29
+msgid "note: Default is Terrain."
+msgstr "примечание: По умолчанию является Terrain."
+
+#: admin/templates/history-map-settings.tpl.php:33
+msgid "Zoom Level"
+msgstr "Уровень масштабирования"
+
+#: admin/templates/history-map-settings.tpl.php:36
+msgid "--Select Zoom Level--"
+msgstr "--Выберите уровень увеличить--"
+
+#: admin/templates/history-map-settings.tpl.php:43
+msgid "note: Default is Streets."
+msgstr "примечание: По умолчанию это улицы."
+
+#: admin/templates/history-map-settings.tpl.php:47
+msgid "Google Map API Key"
+msgstr "Google Map API ключ"
+
+#: admin/templates/history-map-settings.tpl.php:50
+msgid "Please click here to get Google Map API Key"
+msgstr "Пожалуйста, нажмите здесь, чтобы получить Google Map API ключ"
+
+#: admin/templates/history-map-settings.tpl.php:50
+msgid "Get API Key"
+msgstr "Получить API Key"
+
+#: admin/templates/history-map-settings.tpl.php:54
+msgid "Longitude"
+msgstr "Долгота"
+
+#: admin/templates/history-map-settings.tpl.php:60
+msgid "Latitude"
+msgstr "Широта"
+
+#: admin/templates/history-map-settings.tpl.php:66
+msgid "Country Restriction"
+msgstr "Ограничение по стране"
+
+#: admin/templates/history-map-settings.tpl.php:69
+msgid ""
+"Please enter ISO 3166-1 Alpha-2 compatible country code. This is to limit "
+"the results for you chosen country only."
+msgstr ""
+"Пожалуйста, введите ISO 3166-1 Альфа-2 совместимый код страны. Это "
+"ограничение результатов только для выбранной вами страны."
+
+#: admin/templates/history-map-settings.tpl.php:73
+msgid "Google Map Label Color"
+msgstr "Цвет этикетки Google Map"
+
+#: admin/templates/history-map-settings.tpl.php:79
+msgid "Google Map Label Size"
+msgstr "Размер этикетки Google Map"
+
+#: admin/templates/history-map-settings.tpl.php:84
+msgid "Google Map Marker"
+msgstr "Маркер Google карт"
+
+#: admin/templates/history-map-settings.tpl.php:86
+msgid "Upload Logo"
+msgstr "Загрузить логотип"
+
+#: admin/templates/history-map-settings.tpl.php:118
+msgid "Note: Marker must be 55px X 55px dimension for best output."
+msgstr "Примечание: Маркер должен быть 55px X 55px размер для лучшего вывода."
+
+#: admin/templates/history-map-settings.tpl.php:121
+msgid "Save Map Settings"
+msgstr "Сохранить настройки карты"
+
+#: admin/templates/package-metabox.tpl.php:34
+#: admin/templates/package-metabox.tpl.php:49
+#: admin/templates/shipment-history-editable.tpl.php:34
+#: admin/templates/shipment-history-editable.tpl.php:57
+msgid "Delete"
+msgstr "Удалить"
+
+#: admin/templates/package-metabox.tpl.php:56
+msgid "Add Package"
+msgstr "Добавить пакет"
+
+#: admin/templates/print-details-header.tpl.php:8
+msgid "Tracking No: "
+msgstr "Трекинг"
+
+#: admin/templates/print-details-shipment.tpl.php:27
+#: templates/result-form-shipment-details.tpl.php:24
+msgid "Shipment Information"
+msgstr "Информация о перевозках"
+
+#: admin/templates/print-details-shipment.tpl.php:29
+#: templates/result-form-shipment-details.tpl.php:26
+msgid "Origin:"
+msgstr "происхождения:"
+
+#: admin/templates/print-details-shipment.tpl.php:33
+#: templates/result-form-shipment-details.tpl.php:30
+msgid "Package:"
+msgstr "Пакет:"
+
+#: admin/templates/print-details-shipment.tpl.php:37
+#: templates/result-form-shipment-details.tpl.php:34
+msgid "Status:"
+msgstr "Статус:"
+
+#: admin/templates/print-details-shipment.tpl.php:43
+#: templates/result-form-shipment-details.tpl.php:38
+msgid "Destination:"
+msgstr "Место назначения:"
+
+#: admin/templates/print-details-shipment.tpl.php:47
+#: templates/result-form-shipment-details.tpl.php:42
+msgid "Carrier:"
+msgstr "Поставщик услуг связи:"
+
+#: admin/templates/print-details-shipment.tpl.php:51
+#: templates/result-form-shipment-details.tpl.php:46
+msgid "Type of Shipment:"
+msgstr "Тип груза:"
+
+#: admin/templates/print-details-shipment.tpl.php:55
+#: templates/result-form-shipment-details.tpl.php:50
+msgid "Weight:"
+msgstr "Вес:"
+
+#: admin/templates/print-details-shipment.tpl.php:59
+#: templates/result-form-shipment-details.tpl.php:54
+msgid "Shipment Mode:"
+msgstr "Режим доставки:"
+
+#: admin/templates/print-details-shipment.tpl.php:63
+#: templates/result-form-shipment-details.tpl.php:58
+msgid "Carrier Reference No.:"
+msgstr "Ссылка на перевозчика No.:"
+
+#: admin/templates/print-details-shipment.tpl.php:67
+#: templates/result-form-shipment-details.tpl.php:62
+msgid "Product:"
+msgstr "Продукт:"
+
+#: admin/templates/print-details-shipment.tpl.php:71
+#: templates/result-form-shipment-details.tpl.php:66
+msgid "Qty:"
+msgstr "Кол-во:"
+
+#: admin/templates/print-details-shipment.tpl.php:75
+#: templates/result-form-shipment-details.tpl.php:70
+msgid "Payment Mode:"
+msgstr "Форма оплаты:"
+
+#: admin/templates/print-details-shipment.tpl.php:79
+#: templates/result-form-shipment-details.tpl.php:74
+msgid "Total Freight:"
+msgstr "Общий объем перевозок:"
+
+#: admin/templates/print-details-shipment.tpl.php:83
+#: templates/result-form-shipment-details.tpl.php:78
+msgid "Expected Delivery Date:"
+msgstr "Ожидаемая дата поставки:"
+
+#: admin/templates/print-details-shipment.tpl.php:87
+#: templates/result-form-shipment-details.tpl.php:82
+msgid "Departure Time:"
+msgstr "Время отправления:"
+
+#: admin/templates/print-details-shipment.tpl.php:91
+#: templates/result-form-shipment-details.tpl.php:86
+msgid "Pick-up Date:"
+msgstr "Дата пикапа:"
+
+#: admin/templates/print-details-shipment.tpl.php:95
+#: templates/result-form-shipment-details.tpl.php:90
+msgid "Pick-up Time:"
+msgstr "Время прибытия:"
+
+#: admin/templates/print-details-shipment.tpl.php:99
+#: templates/result-form-shipment-details.tpl.php:94
+msgid "Comments:"
+msgstr "Комментарии:"
+
+#: admin/templates/receiver-metabox.tpl.php:2
+msgid "Receiver Details"
+msgstr "Подробная информация о приемнике"
+
+#: admin/templates/receiver-metabox.tpl.php:20
+#: admin/templates/shipper-metabox.tpl.php:15
+msgid "Address"
+msgstr "Адрес"
+
+#: admin/templates/receiver-metabox.tpl.php:26
+#: admin/templates/shipper-metabox.tpl.php:19
+msgid "Email"
+msgstr "Email"
+
+#: admin/templates/settings-fields-option.tpl.php:2
+msgid "Add Type of Shipment"
+msgstr "Добавление типа отгрузки"
+
+#: admin/templates/settings-fields-option.tpl.php:4
+msgid "Ex. Shipment 1, Shipment 2, Shipment 3"
+msgstr "Ex. Груз 1, Отгрузка 2, Отгрузка 3"
+
+#: admin/templates/settings-fields-option.tpl.php:5
+#: admin/templates/settings-fields-option.tpl.php:12
+#: admin/templates/settings-fields-option.tpl.php:19
+#: admin/templates/settings-fields-option.tpl.php:27
+#: admin/templates/settings-fields-option.tpl.php:34
+#: admin/templates/settings-option.tpl.php:12
+msgid "Must be comma separated"
+msgstr "Должна быть запятая разделена"
+
+#: admin/templates/settings-fields-option.tpl.php:9
+msgid "Add Shipment Mode"
+msgstr "Добавить режим отправки"
+
+#: admin/templates/settings-fields-option.tpl.php:11
+msgid "Ex. Shipment Mode 1, Shipment Mode 2, Shipment Mode 3"
+msgstr "Ex. Режим доставки 1, режим доставки 2, режим доставки 3"
+
+#: admin/templates/settings-fields-option.tpl.php:16
+msgid "Add Shipment Location"
+msgstr "Добавление местоположения груза"
+
+#: admin/templates/settings-fields-option.tpl.php:18
+msgid "Ex. Afghanistan, Albania, Algeria"
+msgstr "Афганистан, Албания, Алжир"
+
+#: admin/templates/settings-fields-option.tpl.php:20
+msgid ""
+"Note: If you have WPCargo Custom Field Add-on installed, go to Manage form "
+"Fields to update list of locations."
+msgstr ""
+"Примечание: Если у вас установлена добавленная версия на основе "
+"пользовательского поля WPCargo, перейдите в сторону управления полями формы "
+"для обновления списка местоположений."
+
+#: admin/templates/settings-fields-option.tpl.php:24
+msgid "Add Shipment Carrier"
+msgstr "Добавить перевозчика груза"
+
+#: admin/templates/settings-fields-option.tpl.php:26
+msgid "Ex. Shipment Carrier 1, Shipment Carrier 2, Shipment Carrier 3"
+msgstr ""
+"Ex. Перевозчик грузоперевозок 1, Перевозчик груза 2, Перевозчик груза 3"
+
+#: admin/templates/settings-fields-option.tpl.php:31
+msgid "Add Shipment Payment Mode"
+msgstr "Добавить режим оплаты отгрузки"
+
+#: admin/templates/settings-fields-option.tpl.php:33
+msgid "Ex. Payment Mode 1, Payment Mode 2, Payment Mode 3"
+msgstr "Ex. Режим оплаты 1, Режим оплаты 2, Режим оплаты 3"
+
+#: admin/templates/settings-option.tpl.php:11
+msgid "Ex. Shipment Status 1, Shipment Status 2, Shipment Status 3"
+msgstr "Ex. Статус груза 1, Статус перевозки 2, Статус перевозки 3"
+
+#: admin/templates/settings-option.tpl.php:16
+msgid "Add Shipment Logo"
+msgstr "Добавить логотип отгрузки"
+
+#: admin/templates/settings-option.tpl.php:51
+msgid "Display Barcode?"
+msgstr "Отображение штрих-кода?"
+
+#: admin/templates/settings-option.tpl.php:54
+msgid "Check if you want to display barcode at the results."
+msgstr "Проверьте, хотите ли вы отобразить штрих-код в результатах."
+
+#: admin/templates/settings-option.tpl.php:58
+msgid "Track Page Settings"
+msgstr "Настройки страницы отслеживания"
+
+#: admin/templates/settings-option.tpl.php:67
+msgid "Select a page to insert"
+msgstr "Выберите страницу для вставки"
+
+#: admin/templates/settings-option.tpl.php:70
+msgid "Edit Page"
+msgstr "Редактировать страницу"
+
+#: admin/templates/settings-option.tpl.php:71
+msgid "View Page"
+msgstr "Просмотр страницы"
+
+#: admin/templates/settings-option.tpl.php:83
+msgid "Enable Autogenerate Shipment Number?"
+msgstr "Включить автогенеративное номер груза?"
+
+#: admin/templates/settings-option.tpl.php:89
+msgid "Shipment Number Prefix"
+msgstr "Префикс номера отгрузки"
+
+#: admin/templates/settings-option.tpl.php:95
+msgid "Shipment Number Suffix"
+msgstr "Номер отгрузки суффикс"
+
+#: admin/templates/settings-option.tpl.php:102
+msgid "Shipment Number of Digits"
+msgstr "Количество дигитов"
+
+#: admin/templates/settings-option.tpl.php:106
+msgid ""
+"This will be the number of digits that autocreate shipment title. Note: The "
+"default number of digits is 12 and minumum of 4 digits"
+msgstr ""
+"Это будет число цифр, которые автоматически создают название отгрузки. "
+"Примечание: Число цифр по умолчанию составляет 12 и минумум 4 цифры"
+
+#: admin/templates/settings-option.tpl.php:110
+msgid "Base color"
+msgstr "Основной цвет"
+
+#: admin/templates/settings-option.tpl.php:116
+msgid "TAX(%)"
+msgstr "НАЛОГ (%)"
+
+#: admin/templates/settings-option.tpl.php:119
+msgid ""
+"Note: This setting is optional, some of the WPCargo add on plugins use this "
+"data."
+msgstr ""
+"Примечание: Эта настройка является необязательным, некоторые из WPCargo "
+"добавить на плагины использовать эти данные."
+
+#: admin/templates/settings-option.tpl.php:123
+msgid "Shipment History Settings"
+msgstr "Настройки истории отправки"
+
+#: admin/templates/settings-option.tpl.php:126
+msgid "Display Shipment History in Invoice"
+msgstr "Отображение истории отправки в счете-фактуре"
+
+#: admin/templates/settings-option.tpl.php:132
+msgid "Enable User Timezone"
+msgstr "Включить часовой пояс пользователя"
+
+#: admin/templates/settings-option.tpl.php:138
+msgid "Allow Roles to update shipment history"
+msgstr "Разрешить роям обновлять историю отгрузки"
+
+#: admin/templates/settings-option.tpl.php:155
+msgid "Assign Shipment Email Settings"
+msgstr "Настройки отправки электронной почты"
+
+#: admin/templates/settings-option.tpl.php:158
+msgid "Disable Email for Employee?"
+msgstr "Отключить электронную почту для сотрудника?"
+
+#: admin/templates/settings-option.tpl.php:164
+msgid "Disable Email for Agent?"
+msgstr "Отключить электронную почту для агента?"
+
+#: admin/templates/settings-option.tpl.php:170
+msgid "Disable Email for Client?"
+msgstr "Отключить электронную почту для клиента?"
+
+#: admin/templates/shipment-history.tpl.php:33
+msgid "No Shipment History Found."
+msgstr "История отгрузок не найдена."
+
+#: admin/templates/shipment-metabox.tpl.php:20
+#: admin/templates/shipment-metabox.tpl.php:53
+#: admin/templates/shipment-metabox.tpl.php:82
+#: admin/templates/shipment-metabox.tpl.php:106
+#: admin/templates/shipment-metabox.tpl.php:138
+#: admin/templates/shipment-metabox.tpl.php:159
+msgid "No Selection setup, Please add selection"
+msgstr "Нет настройки выбора, пожалуйста, добавьте выбор"
+
+#: admin/templates/shipment-metabox.tpl.php:171
+msgid "Pickup Time :"
+msgstr "Время отправки"
+
+#: admin/templates/shipper-metabox.tpl.php:2
+msgid "Shipper Details"
+msgstr "Детали грузоотза"
+
+#: admin/templates/user-profile.tpl.php:1
+msgid "User Profile"
+msgstr "Профиль пользователя"
+
+#: admin/templates/user-profile.tpl.php:4
+msgid "Timezone"
+msgstr "Часовой пояс"
+
+#: admin/templates/user-profile.tpl.php:9
+msgid ""
+"Choose user timezone. This will override general settings timezone for user."
+msgstr ""
+"Выберите часовой пояс пользователя. Это перекроет часовой пояс общих "
+"настроек для пользователя."
+
+#: admin/templates/user-profile.tpl.php:13
+msgid "Company Logo"
+msgstr "Логотип компании"
+
+#: admin/templates/user-profile.tpl.php:21
+msgid "Upload Company Logo"
+msgstr "Логотип компании загрузки"
+
+#: admin/templates/user-profile.tpl.php:25
+msgid "Business Registration #"
+msgstr "Регистрация бизнеса #"
+
+#: admin/templates/user-profile.tpl.php:31
+msgid "GST Account #"
+msgstr "Счет GST #"
+
+#: admin/templates/user-profile.tpl.php:37
+msgid "Minimum Notification Unit"
+msgstr "Минимальное уведомление"
+
+#: admin/templates/user-profile.tpl.php:44
+msgid "WPCargo Profile Information"
+msgstr "Информация о профиле WPCargo"
+
+#: admin/templates/user-profile.tpl.php:48
+msgid "Company Name"
+msgstr "Название компании"
+
+#: admin/templates/user-profile.tpl.php:54
+msgid "Company Address"
+msgstr "Адрес компании"
+
+#: admin/templates/user-profile.tpl.php:57
+msgid "Address line 1"
+msgstr "Адресная строка 1"
+
+#: admin/templates/user-profile.tpl.php:63
+msgid "Address line 2"
+msgstr "Адресная строка 2"
+
+#: admin/templates/user-profile.tpl.php:69
+msgid "City"
+msgstr "Город"
+
+#: admin/templates/user-profile.tpl.php:75
+msgid "Postcode"
+msgstr "Индекс"
+
+#: admin/templates/user-profile.tpl.php:81
+msgid "Country"
+msgstr "Страна"
+
+#: admin/templates/user-profile.tpl.php:87
+msgid "Contact Number"
+msgstr "Контактный номер"
+
+#: classes/class-wpc-print.php:35 classes/class-wpc-print.php:39
+msgid "Print"
+msgstr "Печать"
+
+#: includes/packages.php:23
+msgid "Total Volume Weight :"
+msgstr "Общий вес :"
+
+#: includes/packages.php:26
+msgid "Total Actual Weight :"
+msgstr "Общий фактический вес :"
+
+#: includes/packages.php:133
+msgid "Qty."
+msgstr "Кол-во"
+
+#: includes/packages.php:139
+msgid "Piece Type"
+msgstr "Тип фигуры"
+
+#: includes/packages.php:145
+msgid "Description"
+msgstr "Описание"
+
+#: includes/packages.php:151
+msgid "Length"
+msgstr "Длина"
+
+#: includes/packages.php:157
+msgid "Width"
+msgstr "Ширина"
+
+#: includes/packages.php:163
+msgid "Height"
+msgstr "Высота"
+
+#: includes/packages.php:169
+msgid "Weight "
+msgstr "Масса "
+
+#: templates/account-cf.tpl.php:29 templates/account-cf.tpl.php:47
+#: templates/account.tpl.php:25
+msgid "View More"
+msgstr "Подробнее"
+
+#: templates/account-cf.tpl.php:32 templates/account.tpl.php:1
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+#: templates/account-cf.tpl.php:34 templates/account.tpl.php:3
+msgid "Shipment List"
+msgstr "Перечень отгрузок"
+
+#: templates/account-cf.tpl.php:39 templates/account.tpl.php:18
+msgid "Tracking #"
+msgstr "Трекинг"
+
+#: templates/account-cf.tpl.php:67 templates/account.tpl.php:42
+msgid "View Details"
+msgstr "Подробнее"
+
+#: templates/account-cf.tpl.php:72
+msgid "No Shipment found!"
+msgstr "Груз не найден!"
+
+#: templates/account.tpl.php:6
+msgid "Sort"
+msgstr "Сортировать"
+
+#: templates/account.tpl.php:8
+msgid "All"
+msgstr "Все"
+
+#: templates/account.tpl.php:9 templates/account.tpl.php:40
+msgid "Owned"
+msgstr "Собственные"
+
+#: templates/account.tpl.php:10 templates/account.tpl.php:40
+msgid "Receivable"
+msgstr "К получению"
+
+#: templates/account.tpl.php:20
+msgid "Product Qty."
+msgstr "Продукт Шти."
+
+#: templates/account.tpl.php:23
+msgid "Designation"
+msgstr "Назначение"
+
+#: templates/account.tpl.php:49
+msgid "No shipment found!"
+msgstr "Груз не найден!"
+
+#: templates/result-form-shipper-details.tpl.php:13
+msgid "Shipper Information"
+msgstr "Информация о грузоотзах"
+
+#: templates/result-form-shipper-details.tpl.php:20
+msgid "Receiver Information"
+msgstr "Информация о получателе"
+
+#: templates/result-form.tpl.php:30
+msgid "No results found!"
+msgstr "Результаты не найдены!"
+
+#: templates/track-form.tpl.php:69
+msgid "Enter the Consignment No."
+msgstr "Введите номер груза."
+
+#: templates/track-form.tpl.php:73
+msgid "Enter Tracking Number"
+msgstr "Введите номер отслеживания"
+
+#: templates/track-form.tpl.php:74
+msgid "TRACK RESULT"
+msgstr "РЕЗУЛЬТАТ ТРАССЫ"
+
+#: templates/track-form.tpl.php:76
+msgid "Ex: 12345"
+msgstr "Напротив: 12345"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wptaskforce.com/"
+msgstr "http://wptaskforce.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"WPCargo is a WordPress plug-in designed to provide ideal technology solution "
+"for your Cargo and Courier Operations. Whether you are an exporter, freight "
+"forwarder, importer, supplier, customs broker, overseas agent, or warehouse "
+"operator, WPCargo helps you to increase the visibility, efficiency, and "
+"quality services of your cargo and shipment business."
+msgstr ""
+"WPCargo — это плагин WordPress, предназначенный для обеспечения идеального "
+"технологического решения для грузовых и курьерских операций. Независимо от "
+"того, являетесь ли вы экспортером, экспедитором грузов, импортером, "
+"поставщиком, таможенным брокером, иностранным агентом или оператором "
+"складов, WPCargo поможет вам повысить видимость, эффективность и качество "
+"услуг вашего грузового и отгрузочного бизнеса."
+
+#. Author of the plugin/theme
+msgid "<a href=\"http://www.wptaskforce.com/\">WPTaskForce</a>"
+msgstr "<a href=\"http://www.wptaskforce.com/\">WPTaskForce</a>"

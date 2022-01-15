@@ -1,0 +1,459 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPCargo\n"
+"POT-Creation-Date: 2017-02-19 12:53+0000\n"
+"PO-Revision-Date: 2020-06-10 04:25+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpcargo.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.4.0; wp-5.4.1"
+
+#: templates/result-form-shipment-details.tpl.php:76
+#: admin/templates/print-details-shipment.tpl.php:76
+msgid "Origin:"
+msgstr "Origen:"
+
+#: templates/result-form-shipment-details.tpl.php:88
+#: admin/templates/print-details-shipment.tpl.php:94
+msgid "Package:"
+msgstr "Paquete:"
+
+#: templates/result-form-shipment-details.tpl.php:100
+#: admin/templates/print-details-shipment.tpl.php:112
+msgid "Status:"
+msgstr "Estado:"
+
+#: templates/result-form-shipment-details.tpl.php:115
+#: admin/templates/print-details-shipment.tpl.php:139
+msgid "Destination:"
+msgstr "Destino:"
+
+#: templates/result-form-shipment-details.tpl.php:127
+#: templates/result-form-shipment-details.tpl.php:139
+#: admin/templates/print-details-shipment.tpl.php:163
+#: admin/templates/print-details-shipment.tpl.php:181
+msgid "Carrier:"
+msgstr "Carrier:"
+
+#: templates/result-form-shipment-details.tpl.php:154
+#: admin/templates/print-details-shipment.tpl.php:202
+msgid "Type of Shipment:"
+msgstr "Tipo de envío:"
+
+#: templates/result-form-shipment-details.tpl.php:169
+#: admin/templates/print-details-shipment.tpl.php:226
+msgid "Weight:"
+msgstr "Peso:"
+
+#: templates/result-form-shipment-details.tpl.php:181
+#: admin/templates/print-details-shipment.tpl.php:244
+msgid "Shipment Mode:"
+msgstr "Modalidad de envío:"
+
+#: templates/result-form-shipment-details.tpl.php:202
+#: admin/templates/print-details-shipment.tpl.php:265
+msgid "Carrier Reference No.:"
+msgstr "Nº de referencia del transportista:"
+
+#: templates/result-form-shipment-details.tpl.php:214
+#: admin/templates/print-details-shipment.tpl.php:283
+msgid "Product:"
+msgstr "Producto:"
+
+#: templates/result-form-shipment-details.tpl.php:226
+#: admin/templates/print-details-shipment.tpl.php:301
+msgid "Qty:"
+msgstr "Cantidad:"
+
+#: templates/result-form-shipment-details.tpl.php:241
+#: admin/templates/print-details-shipment.tpl.php:322
+msgid "Payment Mode:"
+msgstr "Modo de pago:"
+
+#: templates/result-form-shipment-details.tpl.php:256
+#: admin/templates/print-details-shipment.tpl.php:340
+msgid "Total Freight:"
+msgstr "Flete total:"
+
+#: templates/result-form-shipment-details.tpl.php:268
+#: admin/templates/print-details-shipment.tpl.php:358
+msgid "Expected Delivery Date:"
+msgstr "Fecha de entrega esperada:"
+
+#: templates/result-form-shipment-details.tpl.php:283
+#: admin/templates/print-details-shipment.tpl.php:379
+msgid "Departure Time:"
+msgstr "Hora de salida:"
+
+#: templates/result-form-shipment-details.tpl.php:295
+#: admin/templates/print-details-shipment.tpl.php:397
+msgid "Pick-up Date:"
+msgstr "Fecha de pedido:"
+
+#: templates/result-form-shipment-details.tpl.php:307
+#: admin/templates/print-details-shipment.tpl.php:415
+msgid "Pick-up Time:"
+msgstr "Hora de Recogida:"
+
+#: templates/result-form-shipment-details.tpl.php:322
+#: admin/templates/print-details-shipment.tpl.php:436
+msgid "Comments:"
+msgstr "Comentarios:"
+
+#: templates/result-form-header-details.tpl.php:37
+#: admin/templates/print-details-header.tpl.php:37
+msgid "Tracking No: "
+msgstr "No. seguimiento :"
+
+#: templates/result-form.tpl.php:121
+msgid "No results found!"
+msgstr "¡No se han encontrado resultados!"
+
+#: templates/result-form-shipper-details.tpl.php:40
+#: admin/templates/print-details-shipper.tpl.php:70
+msgid "Shipper Address"
+msgstr "Dirección del remitente"
+
+#: templates/result-form-shipper-details.tpl.php:61
+#: admin/templates/print-details-shipper.tpl.php:94
+msgid "Receiver Address"
+msgstr "Dirección del receptor"
+
+#: templates/track-form.tpl.php:169
+msgid ""
+"This page is a DEMO of the Tracking Script Software.<br>The Consignment "
+"Numbers loaded are for testing and are NOT real.<br>If you have been "
+"redirected here for TRACKING a real cargo or wpcargo_courier package, it is "
+"fake."
+msgstr ""
+
+#: admin/templates/settings-option.tpl.php:421
+msgid "Select a page to insert"
+msgstr "Seleccione una página para insertar"
+
+#: admin/templates/settings-option.tpl.php:445
+msgid "Edit Page"
+msgstr "Editar Página"
+
+#: admin/templates/settings-option.tpl.php:451
+msgid "View Page"
+msgstr "Ver Página"
+
+#: admin/templates/shipment-metabox.tpl.php:13
+msgid "Shipment Details"
+msgstr "ES Shipment Details"
+
+#: admin/templates/shipment-metabox.tpl.php:31
+#, fuzzy
+#| msgid "Agent Name"
+msgid "Agent Name :"
+msgstr "Nombre Agente"
+
+#: admin/templates/shipment-metabox.tpl.php:103
+msgid "Type of Shipment"
+msgstr "Tipo de envío"
+
+#: admin/templates/shipment-metabox.tpl.php:175
+msgid "Weight"
+msgstr "Peso"
+
+#: admin/templates/shipment-metabox.tpl.php:193
+msgid "Courier"
+msgstr "Courier"
+
+#: admin/templates/shipment-metabox.tpl.php:211
+msgid "Packages"
+msgstr "Paquetes"
+
+#: admin/templates/shipment-metabox.tpl.php:229
+msgid "Mode"
+msgstr "Modo"
+
+#: admin/templates/shipment-metabox.tpl.php:298
+msgid "Product"
+msgstr "Producto"
+
+#: admin/templates/shipment-metabox.tpl.php:316
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: admin/templates/shipment-metabox.tpl.php:334
+msgid "Payment Mode"
+msgstr "Modo de pago"
+
+#: admin/templates/shipment-metabox.tpl.php:400
+msgid "Total Freight"
+msgstr "Carga total"
+
+#: admin/templates/shipment-metabox.tpl.php:418
+msgid "Carrier"
+msgstr "Transportista"
+
+#: admin/templates/shipment-metabox.tpl.php:487
+msgid "Carrier Reference No."
+msgstr "Referencia del transportista Nº :"
+
+#: admin/templates/shipment-metabox.tpl.php:505
+msgid "Departure Time"
+msgstr "Hora de salida"
+
+#: admin/templates/shipment-metabox.tpl.php:526
+msgid "Origin"
+msgstr "Origen"
+
+#: admin/templates/shipment-metabox.tpl.php:598
+msgid "Destination"
+msgstr "Destino"
+
+#: admin/templates/shipment-metabox.tpl.php:667
+msgid "Pickup Date"
+msgstr "Fecha de recogida"
+
+#: admin/templates/shipment-metabox.tpl.php:685
+msgid "Pickup Time :"
+msgstr "Hora de recogida :"
+
+#: admin/templates/shipment-metabox.tpl.php:703
+#, fuzzy
+#| msgid "Status"
+msgid "Status :"
+msgstr "Estado"
+
+#: admin/templates/shipment-metabox.tpl.php:772
+msgid "Expected Delivery Date"
+msgstr "Fecha de Entrega Estimada"
+
+#: admin/templates/shipment-metabox.tpl.php:790
+msgid "Comments"
+msgstr "Comentarios"
+
+#: admin/templates/receiver-metabox.tpl.php:4
+msgid "Receiver Details"
+msgstr "Detalles del receptor"
+
+#: admin/templates/receiver-metabox.tpl.php:22
+msgid "Receiver Name"
+msgstr "Nombre del destinatario"
+
+#: admin/templates/receiver-metabox.tpl.php:40
+#: admin/templates/shipper-metabox.tpl.php:31
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+#: admin/templates/receiver-metabox.tpl.php:58
+#: admin/templates/shipper-metabox.tpl.php:43
+msgid "Address"
+msgstr "Dirección"
+
+#: admin/templates/receiver-metabox.tpl.php:76
+#: admin/templates/shipper-metabox.tpl.php:55
+msgid "Email"
+msgstr "Email"
+
+#: admin/templates/email-settings-option.tpl.php:7
+msgid "WPCargo Merge Tags"
+msgstr "Etiquetas de combinación de WPCargo"
+
+#: admin/templates/email-settings-option.tpl.php:16
+msgid "Tracking Number"
+msgstr "Número de seguimiento"
+
+#: admin/templates/email-settings-option.tpl.php:25
+msgid "Shipper Email"
+msgstr "Correo electrónico del remitente"
+
+#: admin/templates/email-settings-option.tpl.php:34
+msgid "Receiver Email"
+msgstr "Email del receptor"
+
+#: admin/templates/email-settings-option.tpl.php:43
+msgid "Shipper Phone"
+msgstr "Teléfono del remitente"
+
+#: admin/templates/email-settings-option.tpl.php:52
+msgid "Receiver Phone"
+msgstr "Teléfono receptor"
+
+#: admin/templates/email-settings-option.tpl.php:61
+msgid "Admin Email"
+msgstr "Correo electrónico del administrador"
+
+#: admin/templates/email-settings-option.tpl.php:70
+msgid "Name of the Shipper"
+msgstr "Nombre del remitente"
+
+#: admin/templates/email-settings-option.tpl.php:79
+msgid "Name of the Receiver"
+msgstr "Nombre del receptor"
+
+#: admin/templates/email-settings-option.tpl.php:88
+msgid "Shipment Status"
+msgstr "ES Shipment Status"
+
+#: admin/templates/email-settings-option.tpl.php:121
+msgid "Please check if you want to send email after updating the shipment."
+msgstr ""
+"Compruebe si desea enviar un correo electrónico después de actualizar el "
+"envío."
+
+#: admin/templates/email-settings-option.tpl.php:145
+msgid "Edit this if you want to change the header of your email automation."
+msgstr ""
+
+#: admin/templates/email-settings-option.tpl.php:175
+msgid "Subject:"
+msgstr "Asunto:"
+
+#: admin/templates/email-settings-option.tpl.php:184
+msgid "Email Subject"
+msgstr "Asunto del email"
+
+#: admin/templates/email-settings-option.tpl.php:196
+msgid "Message:"
+msgstr ""
+
+#: admin/templates/admin-navigation.tpl.php:13
+msgid "Shipment Settings"
+msgstr "Configuración de envío"
+
+#: admin/templates/admin-navigation.tpl.php:19
+msgid "Email Settings"
+msgstr ""
+
+#: admin/templates/shipper-metabox.tpl.php:4
+msgid "Shipper Details"
+msgstr "Detalles del remitente"
+
+#: admin/templates/shipper-metabox.tpl.php:19
+msgid "Shipper Name"
+msgstr "Nombre del Remitente"
+
+#: admin/classes/class-wpc-metabox.php:39
+msgid "WPCargo Shipment Details"
+msgstr ""
+
+#: admin/classes/class-wpc-post-types.php:31
+#: admin/classes/class-wpc-post-types.php:34
+msgctxt "Shipment"
+msgid "Shipment"
+msgstr "Envío"
+
+#: admin/classes/class-wpc-post-types.php:37
+#: admin/classes/class-wpc-post-types.php:76
+#: admin/classes/class-wpc-post-types.php:79
+msgid "Shipment"
+msgstr "Envío"
+
+#: admin/classes/class-wpc-post-types.php:40
+msgid "All Shipment"
+msgstr "Todos los envíos"
+
+#: admin/classes/class-wpc-post-types.php:43
+msgid "View Shipment"
+msgstr "Ver envío"
+
+#: admin/classes/class-wpc-post-types.php:46
+msgid "Add New Shipment"
+msgstr "Añadir nuevo envío"
+
+#: admin/classes/class-wpc-post-types.php:49
+msgid "Add Shipment"
+msgstr "Añadir envío"
+
+#: admin/classes/class-wpc-post-types.php:52
+msgid "Edit Shipment"
+msgstr "Editar envío"
+
+#: admin/classes/class-wpc-post-types.php:55
+msgid "Update Shipment"
+msgstr "Actualizar envío"
+
+#: admin/classes/class-wpc-post-types.php:58
+msgid "Search Shipment"
+msgstr "Buscar envío"
+
+#: admin/classes/class-wpc-post-types.php:61
+msgid "Shipment Not found"
+msgstr "Envío no encontrado"
+
+#: admin/classes/class-wpc-post-types.php:64
+msgid "Shipment Not found in Trash"
+msgstr "Envío no encontrado en la Papelera"
+
+#: admin/classes/class-wpc-post-types.php:145
+msgid "Search Category"
+msgstr "Buscar Categoría"
+
+#: admin/classes/class-wpc-post-types.php:148
+msgid "All Category"
+msgstr "Todas las categorías"
+
+#: admin/classes/class-wpc-post-types.php:151
+msgid "Parent Category"
+msgstr "Categoría Padre"
+
+#: admin/classes/class-wpc-post-types.php:154
+msgid "Parent Category:"
+msgstr "Categoría superior:"
+
+#: admin/classes/class-wpc-post-types.php:157
+msgid "Edit Category"
+msgstr "Editar categoría"
+
+#: admin/classes/class-wpc-post-types.php:160
+msgid "Update Category"
+msgstr "Actualizar Categoría"
+
+#: admin/classes/class-wpc-post-types.php:163
+msgid "Add New Category"
+msgstr "Añadir nueva categoría"
+
+#: admin/classes/class-wpc-post-types.php:166
+msgid "New Category Name"
+msgstr "Nombre de la nueva categoría"
+
+#: admin/classes/class-wpc-post-types.php:169
+msgid "Category"
+msgstr "Categoría"
+
+#. Name of the plugin
+msgid "WPCargo"
+msgstr "WPCargo"
+
+#. Description of the plugin
+msgid ""
+"WPCargo is a WordPress plug-in designed to provide ideal technology solution "
+"for your Cargo and Courier Operations. Whether you are an exporter, freight "
+"forwarder, importer, supplier, customs broker, overseas agent, or warehouse "
+"operator, WPCargo helps you to increase the visibility, efficiency, and "
+"quality services of your cargo and shipment business."
+msgstr ""
+"WPCargo es un plug-in de WordPress diseñado para proporcionar una solución "
+"tecnológica ideal para sus operaciones de carga y mensajería. Si usted es un "
+"exportador, transportista de carga, importador, proveedor, agente de aduanas,"
+" agente extranjero u operador de almacén, WPCargo le ayuda a aumentar la "
+"visibilidad, eficiencia y servicios de calidad de su negocio de carga y "
+"envío."
+
+#. URI of the plugin
+msgid "http://wptaskforce.com/"
+msgstr "http://wptaskforce.com/"
+
+#. Author of the plugin
+msgid "<a href=\"http://www.wptaskforce.com/\">WPTaskForce</a>"
+msgstr "<a href=\"http://www.wptaskforce.com/\">WPTaskForce</a>"
